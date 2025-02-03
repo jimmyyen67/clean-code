@@ -1,3 +1,6 @@
+# SOLID Principles - write clean and well-designed code in Object Oriented Languages
+### Udemy Course Link https://www.udemy.com/course/solid-design/
+
 # Clean Code - learn how to write readable, understandable and therefore maintainable code
 ### Udemy Course Link https://www.udemy.com/course/writing-clean-code/
 
